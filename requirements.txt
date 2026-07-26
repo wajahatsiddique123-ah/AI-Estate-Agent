@@ -1,0 +1,9 @@
+streamlit>=1.36
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+matplotlib>=3.8
+seaborn>=0.13
+langchain>=0.2
+langchain-groq>=0.1.6
+langchain-core>=0.2
